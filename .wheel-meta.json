@@ -1,0 +1,22 @@
+{
+  "wheel_id": 591,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-117",
+  "project": "retaining-wall-contractors-gold-coast-red-flags-1e3067a0c2a6f54",
+  "parent_t1_ref": "goldcoastretainingwall-159",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.au",
+  "primary_kw": "retaining wall contractors gold coast red flags",
+  "intended_url": "https://sitesau.github.io/goldcoastretainingwall-117/",
+  "tier": "T2",
+  "writeback_nonce": "e397d4d76e88fd48",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-contractors-gold-coast-0669bb10db7dbb8ae582c5f18/",
+      "anchor": "Retaining Wall Contractors Gold Coast: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
